@@ -3,7 +3,7 @@
 ## Arduino IDE
 
 ### USB Driver
-Wenn nötig USB Driver CP210X Driver 
+Wenn nötig USB Driver **CP210X** Driver 
 * https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads 
 
 ### Arduino > Preferences > Board Manager
@@ -18,4 +18,4 @@ Wenn nötig USB Driver CP210X Driver
 * #include <ESP8266WiFiMulti.h>
 * #include <PubSubClient.h>
 * #include "DHT.h"
-Install  in Lib for Arduino: C:\Users\nisch\OneDrive\Dokumente\Arduino\libraries
+> Install  in Lib for Arduino: C:\Users\nisch\OneDrive\Dokumente\Arduino\libraries
