@@ -1,5 +1,7 @@
 # IOT Codemaster (IMA)
 
+![IOT HW AUfbau](/assets/iot.jpg)
+
 ## Arduino IDE
 
 ### USB Driver
