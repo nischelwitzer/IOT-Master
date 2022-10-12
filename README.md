@@ -19,3 +19,13 @@ Wenn nötig USB Driver **CP210X** Driver
 * #include <PubSubClient.h>
 * #include "DHT.h"
 > Install  in Lib for Arduino: C:\Users\nisch\OneDrive\Dokumente\Arduino\libraries
+
+## MQTT topic
+
+...
+const char* MQTT_TOPIC_PUB_INFO      = "dmtXX/info";       
+const char* MQTT_TOPIC_PUB_IMPORTANT = "dmtXX/important";   
+const char* MQTT_TOPIC_PUB_TEMP      = "dmtXX/temp";       
+const char* MQTT_TOPIC_PUB_AIR       = "dmtXX/air";        
+const char* MQTT_TOPIC_PUB_LWT       = "dmtXX/lwt";    
+...
