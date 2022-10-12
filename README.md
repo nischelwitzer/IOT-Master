@@ -4,7 +4,9 @@
 
 ## Arduino IDE
 
-### USB Driver
+* installieren: https://www.arduino.cc/en/software
+
+### USB Driver von Silicon Labs für nodeMCU
 Wenn nötig USB Driver **CP210X** Driver 
 * https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads 
 
@@ -31,3 +33,7 @@ const char* MQTT_TOPIC_PUB_TEMP      = "dmtXX/temp";
 const char* MQTT_TOPIC_PUB_AIR       = "dmtXX/air";        
 const char* MQTT_TOPIC_PUB_LWT       = "dmtXX/lwt"; 
 ```
+
+## Sensoren
+
+* Grove Seeedstudio https://wiki.seeedstudio.com/Grove_System/
