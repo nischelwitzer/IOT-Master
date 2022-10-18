@@ -7,6 +7,7 @@ Vorlesungsunterlagen für die IoT Lehrveranstaltung am Studiengang Wirtschaftsin
 ## Arduino IDE
 
 * installieren: https://www.arduino.cc/en/software
+* IOT Sourcecode: **iot_master.ino** im iot_master Directory
 
 ### USB Driver von Silicon Labs für nodeMCU
 Wenn nötig USB Driver **CP210X** Driver 
